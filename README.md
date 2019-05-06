@@ -1,3 +1,3 @@
 # MediaWiki-ClientLogin
 
-#Media Wiki Authentication using Client Login
+Media Wiki Authentication using Client Login
